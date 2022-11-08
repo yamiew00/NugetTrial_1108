@@ -11,11 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("NugetTrial_Jerry1108")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("_CompanyName")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("some description of this package")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("NugetTrial_Jerry1108")]
+[assembly: System.Reflection.AssemblyProductAttribute("NugetTrial_Jerry1108_ProductName")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NugetTrial_Jerry1108")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

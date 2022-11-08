@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Jerry\\桌面\\Tests\\NugetTrial_Jerry1108\\NugetTrial_Jerry1108\\NugetTrial_Jerry1108.csproj": {}
+    "D:\\Jerry\\桌面\\Tests\\NugetTrial_1108\\NugetTrial_Jerry1108\\NugetTrial_Jerry1108.csproj": {}
   },
   "projects": {
-    "D:\\Jerry\\桌面\\Tests\\NugetTrial_Jerry1108\\NugetTrial_Jerry1108\\NugetTrial_Jerry1108.csproj": {
+    "D:\\Jerry\\桌面\\Tests\\NugetTrial_1108\\NugetTrial_Jerry1108\\NugetTrial_Jerry1108.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jerry\\桌面\\Tests\\NugetTrial_Jerry1108\\NugetTrial_Jerry1108\\NugetTrial_Jerry1108.csproj",
-        "projectName": "NugetTrial_Jerry1108",
-        "projectPath": "D:\\Jerry\\桌面\\Tests\\NugetTrial_Jerry1108\\NugetTrial_Jerry1108\\NugetTrial_Jerry1108.csproj",
+        "projectUniqueName": "D:\\Jerry\\桌面\\Tests\\NugetTrial_1108\\NugetTrial_Jerry1108\\NugetTrial_Jerry1108.csproj",
+        "projectName": "NugetTrial_Jerry1108_UniqueId",
+        "projectPath": "D:\\Jerry\\桌面\\Tests\\NugetTrial_1108\\NugetTrial_Jerry1108\\NugetTrial_Jerry1108.csproj",
         "packagesPath": "C:\\Users\\r0522\\.nuget\\packages\\",
-        "outputPath": "D:\\Jerry\\桌面\\Tests\\NugetTrial_Jerry1108\\NugetTrial_Jerry1108\\obj\\",
+        "outputPath": "D:\\Jerry\\桌面\\Tests\\NugetTrial_1108\\NugetTrial_Jerry1108\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
